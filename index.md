@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+##Ankur Sharma
 
-You can use the [editor on GitHub](https://github.com/ankurhcu/ankursharma.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Research Scholar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computer Science and Engineering Department
 
-### Markdown
+National Institute of Technology Calicut
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kozhikode, Kerala- 673601 
 
-```markdown
-Syntax highlighted code block
+India 
 
-# Header 1
-## Header 2
-### Header 3
+Email: ankur_p180086cs@nitc.ac.in
 
-- Bulleted
-- List
+## Research Interests:
 
-1. Numbered
-2. List
+* Cloud Computing & Edge Computing
 
-**Bold** and _Italic_ and `Code` text
+* Internet of Things
 
-[Link](url) and ![Image](src)
-```
+* Artificial Intelligence 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* Algorithms
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankurhcu/ankursharma.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Academic Background:
 
-### Support or Contact
+ * PhD (On-going), CSED, NIT Calicut 
+ * M.Tech, SCIS, University of Hyderabad
+ * MCA, CUSAT, kOCHI
+ * BSc. CCS University Meerut
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##  Research Supervisor
+
+* [Dr. T. Veni](https://people.cse.nitc.ac.in/veni/)
+
+
+## Publications:
+
+-[Google Scholar List](https://scholar.google.com/citations?hl=en&user=gjzTxFMAAAAJ)
+
+##  Collaborators of published/accepted papers
+
+* [Dr. S. Durga Bhavani](https://scholar.google.com/citations?user=Der0uwgAAAAJ&hl=en&oi=sra)
