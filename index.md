@@ -14,13 +14,13 @@ Email: ankur_p180086cs@nitc.ac.in
 
 ## Research Interests:
 
-* Cloud Computing & Edge Computing
+ * Cloud Computing & Edge Computing
 
-* Internet of Things
+ * Internet of Things
 
-* Artificial Intelligence 
+ * Artificial Intelligence 
 
-* Algorithms
+ * Algorithms
 
 
 ## Academic Background:
@@ -32,13 +32,13 @@ Email: ankur_p180086cs@nitc.ac.in
 
 ##  Research Supervisor
 
-* [Dr. T. Veni](https://people.cse.nitc.ac.in/veni/)
+ * [Dr. T. Veni](https://people.cse.nitc.ac.in/veni/)
 
 
 ## Publications:
 
--[Google Scholar List](https://scholar.google.com/citations?hl=en&user=gjzTxFMAAAAJ)
+ * [Google Scholar List](https://scholar.google.com/citations?hl=en&user=gjzTxFMAAAAJ)
 
 ##  Collaborators of published/accepted papers
 
-* [Dr. S. Durga Bhavani](https://scholar.google.com/citations?user=Der0uwgAAAAJ&hl=en&oi=sra)
+ * [Dr. S. Durga Bhavani](https://scholar.google.com/citations?user=Der0uwgAAAAJ&hl=en&oi=sra)
