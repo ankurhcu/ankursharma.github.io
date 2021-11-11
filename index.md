@@ -27,8 +27,8 @@ Email: ankur_p180086cs@nitc.ac.in
 
  * PhD (On-going), CSED, NIT Calicut 
  * M.Tech, SCIS, University of Hyderabad
- * MCA, CUSAT, kOCHI
- * BSc. CCS University Meerut
+ * MCA, CUSAT, Kochi
+ * BSc., CCS University Meerut
 
 ##  Research Supervisor
 
