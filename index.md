@@ -36,7 +36,7 @@ Email: ankur_p180086cs@nitc.ac.in
 
 ## ORCID 
 
-*[ORCID ACCOUNT]https://orcid.org/0000-0002-4876-3504
+* [ORCID ACCOUNT](https://orcid.org/0000-0002-4876-3504)
 
 ## Publications:
 
