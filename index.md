@@ -25,7 +25,7 @@ Email: ankur_p180086cs@nitc.ac.in
 
 ## Academic Background:
 
- * PhD (On-going), CSED, NIT Calicut 
+ * PhD, CSED, NIT Calicut 
  * M.Tech, SCIS, University of Hyderabad
  * MCA, CUSAT, Kochi
  * BSc., CCS University Meerut
@@ -34,6 +34,9 @@ Email: ankur_p180086cs@nitc.ac.in
 
  * [Dr. T. Veni](https://people.cse.nitc.ac.in/veni/)
 
+## ORCID 
+
+*[ORCID ACCOUNT]https://orcid.org/0000-0002-4876-3504
 
 ## Publications:
 
