@@ -1,17 +1,11 @@
 ## Ankur Sharma
 
 Assistant Professor
-
 Department of Computer Science
-
 AIM & ACT
-
 Banasthali Vidyapith
-
 Rajasthan-304022
-
 India 
-
 Email: ankur.p180086cs@gmail.com
 
 ## Teaching:
@@ -22,11 +16,8 @@ Email: ankur.p180086cs@gmail.com
 ## Research Interests:
 
  * Cloud Computing & Edge Computing
-
  * Internet of Things
-
  * Artificial Intelligence 
-
  * Algorithms
 
 
