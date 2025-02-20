@@ -8,7 +8,7 @@ Rajasthan-304022 <br />
 India <br />
 Email: ankur.p180086cs@gmail.com 
 
-## Academic Background:
+## Education:
 
  * PhD, CSED, NIT Calicut 
  * M.Tech, SCIS, University of Hyderabad
@@ -17,7 +17,7 @@ Email: ankur.p180086cs@gmail.com
 
 ## Teaching:
 
-* Data Structure using C (September 2024-December 2024)
+* Data Structure using C (September 2024 - December 2024)
 * Communication and Networking (January 2025 - May 2025)
 
 ## Research Interests:
