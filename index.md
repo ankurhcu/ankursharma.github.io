@@ -1,12 +1,12 @@
 ## Ankur Sharma
 
-Assistant Professor__
-Department of Computer Science__
-AIM & ACT__
-Banasthali Vidyapith__
-Rajasthan-304022__
-India__
-Email: ankur.p180086cs@gmail.com__
+Assistant Professor __
+Department of Computer Science __
+AIM & ACT __
+Banasthali Vidyapith __
+Rajasthan-304022 __
+India __
+Email: ankur.p180086cs@gmail.com __
 
 ## Teaching:
 
