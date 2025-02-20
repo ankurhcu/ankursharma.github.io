@@ -28,10 +28,6 @@ Email: ankur.p180086cs@gmail.com
  * MCA, CUSAT, Kochi
  * BSc., CCS University Meerut
 
-##  Research Supervisor
-
- * [Dr. T. Veni](https://people.cse.nitc.ac.in/veni/)
-
 ## ORCID 
 
 * [ORCID ACCOUNT](https://orcid.org/0000-0002-4876-3504)
@@ -43,3 +39,4 @@ Email: ankur.p180086cs@gmail.com
 ##  Collaborators of published/accepted papers
 
  * [Dr. S. Durga Bhavani](https://scholar.google.com/citations?user=Der0uwgAAAAJ&hl=en&oi=sra)
+ * [Dr. T. Veni](https://people.cse.nitc.ac.in/veni/)
