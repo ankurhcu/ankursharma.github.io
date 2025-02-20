@@ -1,4 +1,4 @@
-## Ankur Sharma
+## Dr. Ankur Sharma
 
 Assistant Professor <br />
 Department of Computer Science <br />
@@ -7,6 +7,13 @@ Banasthali Vidyapith <br />
 Rajasthan-304022 <br />
 India <br />
 Email: ankur.p180086cs@gmail.com 
+
+## Academic Background:
+
+ * PhD, CSED, NIT Calicut 
+ * M.Tech, SCIS, University of Hyderabad
+ * MCA, CUSAT, Kochi
+ * BSc., CCS University Meerut
 
 ## Teaching:
 
@@ -19,14 +26,6 @@ Email: ankur.p180086cs@gmail.com
  * Internet of Things
  * Artificial Intelligence 
  * Algorithms
-
-
-## Academic Background:
-
- * PhD, CSED, NIT Calicut 
- * M.Tech, SCIS, University of Hyderabad
- * MCA, CUSAT, Kochi
- * BSc., CCS University Meerut
 
 ## ORCID 
 
