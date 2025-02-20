@@ -1,16 +1,23 @@
 ## Ankur Sharma
 
-Research Scholar
+Assistant Professor
 
-Computer Science and Engineering Department
+Department of Computer Science
 
-National Institute of Technology Calicut
+AIM & ACT
 
-Kozhikode, Kerala- 673601 
+Banasthali Vidyapith
+
+Rajasthan-304022
 
 India 
 
-Email: ankur_p180086cs@nitc.ac.in
+Email: ankur.p180086cs@gmail.com
+
+## Teaching:
+
+* Data Structure using C (September 2024-December 2024)
+* Communication and Networking (January 2025 - May 2025)
 
 ## Research Interests:
 
