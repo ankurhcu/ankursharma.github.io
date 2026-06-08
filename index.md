@@ -1,10 +1,9 @@
 ## Dr. Ankur Sharma
 
 Assistant Professor <br />
-Department of Computer Science <br />
-AIM & ACT <br />
-Banasthali Vidyapith <br />
-Rajasthan-304022 <br />
+School of Computer Science Engineering & Technology <br />
+Bennett University <br />
+Uttar Pradesh 201310 <br />
 India <br />
 Email: ankur.p180086cs@gmail.com 
 
@@ -19,6 +18,8 @@ Email: ankur.p180086cs@gmail.com
 
 * Data Structure using C (September 2024 - December 2024)
 * Communication and Networking (January 2025 - May 2025)
+* Social Network Analysis (July 2025 - December 2025
+* Computer Networks (January 2026 - June 2026)
 
 ## Research Interests:
 
