@@ -34,7 +34,7 @@ Email: ankur.p180086cs@gmail.com
 
 ## Publications:
 
- * [Google Scholar List](https://scholar.google.com/citations?hl=en&user=gjzTxFMAAAAJ)
+ * [Google Scholar List](https://scholar.google.com/citations?user=q3OtYncAAAAJ&hl=en)
 
 ##  Collaborators of published/accepted papers
 
